@@ -1,5 +1,5 @@
 # Vimeo.IDOR
-Vimeo.com Insecure Direct Object References Reset Password [POC](./vimeo.pdf)
+[Vimeo.com Insecure Direct Object References Reset Password POC](./vimeo.pdf)
 
 [![Demo](./vimeo.gif)](https://youtu.be/CadmvwVQhag)
 
