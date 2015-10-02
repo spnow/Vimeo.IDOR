@@ -6,4 +6,5 @@ Vimeo.com Insecure Direct Object References Reset Password
 ## Thanks to
 
 ![Vimeo](./Vimeo_Logo.jpg)
+
 ![Hackerone](./Hackerone_Logo.jpg)
