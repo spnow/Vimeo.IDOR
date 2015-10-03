@@ -1,5 +1,5 @@
 [![header](./header.jpg)](https://hackerone.com/reports/42587)
-[Vimeo.com Insecure Direct Object References Reset Password POC](./vimeo.pdf)
+#### [Vimeo.com Insecure Direct Object References Reset Password POC](./vimeo.pdf)
 
 [![Demo](./vimeo.gif)](https://youtu.be/CadmvwVQhag)
 
